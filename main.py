@@ -1,10 +1,10 @@
 ##########################################################
 ###                   PYGAME – Trees                  ###
-###   2st Project for Data Structure at NYU Shanghai   ###
+###   2nd Project for Data Structure at NYU Shanghai   ###
 ##########################################################
 
 __author__ = "Jack B. Du (Jiadong Du)"
-__copyright__ = "Copyright 2014, the 2st DS Project @NYUSH"
+__copyright__ = "Copyright 2014, the 2nd DS Project @NYUSH"
 __version__ = "0.0.1"
 __email__ = "JackBDu@nyu.edu"
 __status__ = "Developing"
